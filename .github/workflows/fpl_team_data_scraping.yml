@@ -43,7 +43,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add pl_teams_xgf_xga_venue.csv
+          git add pl_team_performance_raw_data.csv
           git add pl_pending_games.csv
           git commit -m 'Data updated' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
