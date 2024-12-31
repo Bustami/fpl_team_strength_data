@@ -47,3 +47,5 @@ jobs:
           git add pl_pending_games.csv
           git commit -m 'Data updated' || echo "No changes to commit"
           git push origin || echo "No changes to commit"
+        env:
+          GHA: ${{ secrets.GHA }}
