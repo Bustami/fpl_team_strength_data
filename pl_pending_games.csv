@@ -1,5 +1,4 @@
 wk,date,home,away
-25,2025-02-14,Brighton,Chelsea
 25,2025-02-15,Leicester City,Arsenal
 25,2025-02-15,Aston Villa,Ipswich Town
 25,2025-02-15,Fulham,Nott'ham Forest
@@ -40,7 +39,6 @@ wk,date,home,away
 28,2025-03-09,Tottenham,Bournemouth
 28,2025-03-09,Manchester Utd,Arsenal
 28,2025-03-10,West Ham,Newcastle Utd
-29,2025-03-15,Newcastle Utd,Crystal Palace
 29,2025-03-15,Manchester City,Brighton
 29,2025-03-15,Ipswich Town,Nott'ham Forest
 29,2025-03-15,Everton,West Ham
@@ -79,6 +77,7 @@ wk,date,home,away
 32,2025-04-12,Nott'ham Forest,Everton
 32,2025-04-12,Chelsea,Ipswich Town
 32,2025-04-12,Southampton,Aston Villa
+29,2025-04-16,Newcastle Utd,Crystal Palace
 33,2025-04-19,Leicester City,Liverpool
 33,2025-04-19,Ipswich Town,Arsenal
 33,2025-04-19,Brentford,Brighton
