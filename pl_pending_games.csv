@@ -1,7 +1,4 @@
 wk,date,home,away
-29,2025-03-16,Arsenal,Chelsea
-29,2025-03-16,Fulham,Tottenham
-29,2025-03-16,Leicester City,Manchester Utd
 30,2025-04-01,Wolves,West Ham
 30,2025-04-01,Arsenal,Fulham
 30,2025-04-01,Nott'ham Forest,Manchester Utd
@@ -23,13 +20,13 @@ wk,date,home,away
 31,2025-04-06,Manchester Utd,Manchester City
 31,2025-04-07,Leicester City,Newcastle Utd
 32,2025-04-12,Manchester City,Crystal Palace
-32,2025-04-12,Wolves,Tottenham
 32,2025-04-12,Brighton,Leicester City
 32,2025-04-12,Nott'ham Forest,Everton
-32,2025-04-12,Chelsea,Ipswich Town
 32,2025-04-12,Southampton,Aston Villa
 32,2025-04-12,Arsenal,Brentford
 32,2025-04-13,Liverpool,West Ham
+32,2025-04-13,Wolves,Tottenham
+32,2025-04-13,Chelsea,Ipswich Town
 32,2025-04-13,Newcastle Utd,Manchester Utd
 32,2025-04-14,Bournemouth,Fulham
 29,2025-04-16,Newcastle Utd,Crystal Palace
@@ -37,10 +34,10 @@ wk,date,home,away
 33,2025-04-19,West Ham,Southampton
 33,2025-04-19,Crystal Palace,Bournemouth
 33,2025-04-19,Everton,Manchester City
-33,2025-04-19,Fulham,Chelsea
-33,2025-04-19,Manchester Utd,Wolves
 33,2025-04-19,Aston Villa,Newcastle Utd
 33,2025-04-20,Ipswich Town,Arsenal
+33,2025-04-20,Fulham,Chelsea
+33,2025-04-20,Manchester Utd,Wolves
 33,2025-04-20,Leicester City,Liverpool
 33,2025-04-21,Tottenham,Nott'ham Forest
 34,2025-04-26,Chelsea,Everton
