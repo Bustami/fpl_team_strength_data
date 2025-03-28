@@ -1,92 +1,92 @@
 wk,date,home,away
-30,2025-04-01,Wolves,West Ham
 30,2025-04-01,Arsenal,Fulham
+30,2025-04-01,Wolves,West Ham
 30,2025-04-01,Nott'ham Forest,Manchester Utd
-30,2025-04-02,Brighton,Aston Villa
 30,2025-04-02,Newcastle Utd,Brentford
+30,2025-04-02,Manchester City,Leicester City
 30,2025-04-02,Southampton,Crystal Palace
 30,2025-04-02,Bournemouth,Ipswich Town
-30,2025-04-02,Manchester City,Leicester City
+30,2025-04-02,Brighton,Aston Villa
 30,2025-04-02,Liverpool,Everton
 30,2025-04-03,Chelsea,Tottenham
 31,2025-04-05,Everton,Arsenal
-31,2025-04-05,Crystal Palace,Brighton
-31,2025-04-05,West Ham,Bournemouth
 31,2025-04-05,Ipswich Town,Wolves
+31,2025-04-05,West Ham,Bournemouth
+31,2025-04-05,Crystal Palace,Brighton
 31,2025-04-05,Aston Villa,Nott'ham Forest
 31,2025-04-06,Tottenham,Southampton
-31,2025-04-06,Fulham,Liverpool
 31,2025-04-06,Brentford,Chelsea
+31,2025-04-06,Fulham,Liverpool
 31,2025-04-06,Manchester Utd,Manchester City
 31,2025-04-07,Leicester City,Newcastle Utd
 32,2025-04-12,Manchester City,Crystal Palace
-32,2025-04-12,Nott'ham Forest,Everton
-32,2025-04-12,Southampton,Aston Villa
 32,2025-04-12,Brighton,Leicester City
+32,2025-04-12,Southampton,Aston Villa
+32,2025-04-12,Nott'ham Forest,Everton
 32,2025-04-12,Arsenal,Brentford
+32,2025-04-13,Liverpool,West Ham
 32,2025-04-13,Wolves,Tottenham
 32,2025-04-13,Chelsea,Ipswich Town
-32,2025-04-13,Liverpool,West Ham
 32,2025-04-13,Newcastle Utd,Manchester Utd
 32,2025-04-14,Bournemouth,Fulham
 29,2025-04-16,Newcastle Utd,Crystal Palace
+33,2025-04-19,Everton,Manchester City
 33,2025-04-19,Crystal Palace,Bournemouth
 33,2025-04-19,West Ham,Southampton
-33,2025-04-19,Everton,Manchester City
 33,2025-04-19,Brentford,Brighton
 33,2025-04-19,Aston Villa,Newcastle Utd
 33,2025-04-20,Fulham,Chelsea
-33,2025-04-20,Manchester Utd,Wolves
 33,2025-04-20,Ipswich Town,Arsenal
+33,2025-04-20,Manchester Utd,Wolves
 33,2025-04-20,Leicester City,Liverpool
 33,2025-04-21,Tottenham,Nott'ham Forest
 34,2025-04-26,Chelsea,Everton
-34,2025-04-26,Nott'ham Forest,Brentford
 34,2025-04-26,Brighton,West Ham
 34,2025-04-26,Wolves,Leicester City
 34,2025-04-26,Southampton,Fulham
 34,2025-04-26,Newcastle Utd,Ipswich Town
+34,2025-04-26,Nott'ham Forest,Brentford
 34,2025-04-26,Arsenal,Crystal Palace
 34,2025-04-27,Bournemouth,Manchester Utd
 34,2025-04-27,Liverpool,Tottenham
 34,2025-04-28,Manchester City,Aston Villa
-35,2025-05-03,Crystal Palace,Nott'ham Forest
-35,2025-05-03,Leicester City,Southampton
-35,2025-05-03,Everton,Ipswich Town
-35,2025-05-03,Chelsea,Liverpool
-35,2025-05-03,Arsenal,Bournemouth
-35,2025-05-03,Manchester City,Wolves
+35,2025-05-02,Manchester City,Wolves
 35,2025-05-03,Aston Villa,Fulham
-35,2025-05-03,Brentford,Manchester Utd
-35,2025-05-03,Brighton,Newcastle Utd
+35,2025-05-03,Leicester City,Southampton
 35,2025-05-03,West Ham,Tottenham
-36,2025-05-10,Tottenham,Crystal Palace
-36,2025-05-10,Newcastle Utd,Chelsea
-36,2025-05-10,Nott'ham Forest,Leicester City
-36,2025-05-10,Wolves,Brighton
-36,2025-05-10,Manchester Utd,West Ham
+35,2025-05-03,Brentford,Manchester Utd
+35,2025-05-03,Everton,Ipswich Town
+35,2025-05-03,Arsenal,Bournemouth
+35,2025-05-04,Brighton,Newcastle Utd
+35,2025-05-04,Chelsea,Liverpool
+35,2025-05-05,Crystal Palace,Nott'ham Forest
 36,2025-05-10,Ipswich Town,Brentford
 36,2025-05-10,Fulham,Everton
+36,2025-05-10,Newcastle Utd,Chelsea
+36,2025-05-10,Nott'ham Forest,Leicester City
+36,2025-05-10,Tottenham,Crystal Palace
+36,2025-05-10,Manchester Utd,West Ham
+36,2025-05-10,Wolves,Brighton
 36,2025-05-10,Southampton,Manchester City
-36,2025-05-10,Liverpool,Arsenal
 36,2025-05-10,Bournemouth,Aston Villa
-37,2025-05-18,Everton,Southampton
-37,2025-05-18,Aston Villa,Tottenham
-37,2025-05-18,West Ham,Nott'ham Forest
-37,2025-05-18,Brentford,Fulham
-37,2025-05-18,Arsenal,Newcastle Utd
-37,2025-05-18,Crystal Palace,Wolves
-37,2025-05-18,Chelsea,Manchester Utd
+36,2025-05-10,Liverpool,Arsenal
 37,2025-05-18,Leicester City,Ipswich Town
+37,2025-05-18,Arsenal,Newcastle Utd
+37,2025-05-18,West Ham,Nott'ham Forest
+37,2025-05-18,Chelsea,Manchester Utd
+37,2025-05-18,Everton,Southampton
 37,2025-05-18,Brighton,Liverpool
 37,2025-05-18,Manchester City,Bournemouth
-38,2025-05-25,Nott'ham Forest,Chelsea
+37,2025-05-18,Aston Villa,Tottenham
+37,2025-05-18,Crystal Palace,Wolves
+37,2025-05-18,Brentford,Fulham
+38,2025-05-25,Manchester Utd,Aston Villa
+38,2025-05-25,Wolves,Brentford
+38,2025-05-25,Ipswich Town,West Ham
+38,2025-05-25,Southampton,Arsenal
 38,2025-05-25,Liverpool,Crystal Palace
+38,2025-05-25,Nott'ham Forest,Chelsea
 38,2025-05-25,Fulham,Manchester City
 38,2025-05-25,Newcastle Utd,Everton
 38,2025-05-25,Bournemouth,Leicester City
 38,2025-05-25,Tottenham,Brighton
-38,2025-05-25,Ipswich Town,West Ham
-38,2025-05-25,Manchester Utd,Aston Villa
-38,2025-05-25,Wolves,Brentford
-38,2025-05-25,Southampton,Arsenal
