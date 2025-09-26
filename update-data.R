@@ -10,8 +10,10 @@ library(readr)
 url = "https://fbref.com/en/comps/9/Premier-League-Stats"
 html = read_html(url)
 
+season = gsub(".*?(\\d{4}-\\d{4}).*", "\\1", html %>% html_nodes(xpath = '//*[@id="meta"]/div[2]/h1') %>% html_text())
+
 raw_data = html %>% 
-        html_nodes(xpath = '//*[@id="results2024-202591_home_away"]/tbody') %>% 
+        html_nodes(xpath = paste0('//*[@id="results', season, '91_home_away"]/tbody')) %>% 
         html_table(fill = T) %>% 
         as.data.frame()
 
@@ -26,7 +28,7 @@ url_fixture = "https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-F
 html_fixture = read_html(url_fixture)
 
 raw_data_fixture = html_fixture %>% 
-  html_nodes(xpath = '//*[@id="div_sched_2024-2025_9_1"]') %>% 
+  html_nodes(xpath = paste0('//*[@id="div_sched_', season, '_9_1"]')) %>% 
   html_table(fill = T) %>% 
   as.data.frame() %>% 
   clean_names()
